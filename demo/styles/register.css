@@ -1,0 +1,77 @@
+/*注册部分*/
+.register {
+    width: 982px;
+    border: 1px solid red;
+    height: 450px;
+    border: 1px solid #666666;
+    margin: 40px auto 20px auto;
+}
+.register_t{
+    height: 37px;
+    background:#e6e6e6;
+    border-bottom: 1px solid  #666666;
+    display: flex;
+    justify-content: space-between;
+    line-height: 37px;
+    padding: 0 19px 0 19px;
+    font-size:16px;
+}
+.register_t h3{
+    color:#444;
+}
+.register_t p {
+    color:#2f2b2c;
+}
+.register_t p a {
+    width: 51px;
+    height: 32px;
+    background:#f44d6b;
+    text-align: center;
+    color:#fff;
+    font-size: 16px;
+    line-height: 32px;
+    padding: 2px  4px 2px 4px;
+}
+.register_b .register_phone a {
+    width: 121px;
+    height: 32px;
+    display: block;
+    background:#f44d6b;
+     margin: 50px 0 0 50px;
+}
+.info{
+   width: 80%;
+   height: 60%;
+   border-top:1px solid #444;
+   margin:0 50px;
+
+}
+/*表单验证*/
+form{
+    margin-top: 30px;
+    font-size:14px;
+    color:#666;
+}
+
+form .col{
+    color:red;
+}
+form label {
+    width: 105px;
+    height: 31px;
+    display: inline-block;
+    margin-left:200px;
+}
+form input{
+    width:261px;
+    height: 31px;
+    border:1px solid #ccc;
+}
+
+form .submit {
+   width: 130px;
+   height: 31px;
+   background:#f44d6b;
+   color:#fff;
+   margin: 10px 293px;
+}

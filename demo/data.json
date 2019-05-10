@@ -1,0 +1,525 @@
+{
+	"classify001": {
+		"name": "家居生活",
+		"list": [{
+				"id": "shop012",
+				"name": "小米1",
+				"src": "9.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop0012",
+				"name": "小米2",
+				"src": "2.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop03",
+				"name": "小米3",
+				"src": "3.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop004",
+				"name": "小米4",
+				"src": "4.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop05",
+				"name": "小米5",
+				"src": "5.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop06",
+				"name": "小米6",
+				"src": "6.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop07",
+				"name": "小米7",
+				"src": "7.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop08",
+				"name": "小米8",
+				"src": "8.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop09",
+				"name": "小米9",
+				"src": "9.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop11",
+				"name": "小米10",
+				"src": "10.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop12",
+				"name": "小米9",
+				"src": "9.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop12",
+				"name": "小米10",
+				"src": "10.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop07",
+				"name": "小米7",
+				"src": "7.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop08",
+				"name": "小米8",
+				"src": "8.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop09",
+				"name": "小米9",
+				"src": "9.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop11",
+				"name": "小米10",
+				"src": "10.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop12",
+				"name": "小米9",
+				"src": "9.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop12",
+				"name": "小米10",
+				"src": "10.jpg",
+				"price": "999"
+			}
+		]
+	},
+	"classify002": {
+		"name": "数码家电",
+		"list": [{
+				"id": "shop6611",
+				"name": "三星11",
+				"src": "11.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop02",
+				"name": "三星12",
+				"src": "12.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop13",
+				"name": "三星13",
+				"src": "13.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop04",
+				"name": "三星14",
+				"src": "14.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop15",
+				"name": "三星15",
+				"src": "15.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop16",
+				"name": "三星16",
+				"src": "16.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop17",
+				"name": "三星17",
+				"src": "17.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop18",
+				"name": "三星18",
+				"src": "18.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop19",
+				"name": "三星9",
+				"src": "9.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop20",
+				"name": "三星20",
+				"src": "20.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop21",
+				"name": "三星20",
+				"src": "20.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop18",
+				"name": "三星18",
+				"src": "18.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop19",
+				"name": "三星9",
+				"src": "9.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop20",
+				"name": "三星20",
+				"src": "20.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop21",
+				"name": "三星20",
+				"src": "20.jpg",
+				"price": "999"
+			}
+		]
+	},
+	"classify003": {
+		"name": "保健养生",
+		"list": [{
+				"id": "shop201",
+				"name": "三星20",
+				"src": "21.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop202",
+				"name": "三星20",
+				"src": "22.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop203",
+				"name": "三星20",
+				"src": "23.jpg",
+				"price": "999"
+			}, 
+			{
+				"id": "shop204",
+				"name": "三星20",
+				"src": "24.jpg",
+				"price": "999"
+			}, 
+			{
+				"id": "shop25",
+				"name": "三星20",
+				"src": "25.jpg",
+				"price": "999"
+			}, 
+			{
+				"id": "shop206",
+				"name": "三星20",
+				"src": "26.jpg",
+				"price": "999"
+			}, 
+			{
+				"id": "shop207",
+				"name": "三星20",
+				"src": "27.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop208",
+				"name": "三星20",
+				"src": "28.jpg",
+				"price": "999"
+			}, 
+			{
+				"id": "shop208",
+				"name": "三星20",
+				"src": "29.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop30",
+				"name": "三星20",
+				"src": "30.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop90",
+				"name": "三星20",
+				"src": "20.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop91",
+				"name": "三星20",
+				"src": "20.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop208",
+				"name": "三星20",
+				"src": "29.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop30",
+				"name": "三星20",
+				"src": "30.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop90",
+				"name": "三星20",
+				"src": "20.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop91",
+				"name": "三星20",
+				"src": "20.jpg",
+				"price": "999"
+			}
+		]
+	},
+	"classify004": {
+		"name": "美容养生",
+		"list": [{
+				"id": "shop30",
+				"name": "三星20",
+				"src": "45.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop302",
+				"name": "三星20",
+				"src": "46.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop303",
+				"name": "三星20",
+				"src": "47.jpg",
+				"price": "999"
+			}, 
+			{
+				"id": "shop304",
+				"name": "三星20",
+				"src": "48.jpg",
+				"price": "999"
+			}, 
+			{
+				"id": "shop305",
+				"name": "三星20",
+				"src": "49.jpg",
+				"price": "999"
+			}, 
+			{
+				"id": "shop306",
+				"name": "三星20",
+				"src": "25.jpg",
+				"price": "999"
+			}, 
+			{
+				"id": "shop307",
+				"name": "三星20",
+				"src": "30.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop308",
+				"name": "三星20",
+				"src": "47.jpg",
+				"price": "999"
+			}, 
+			{
+				"id": "shop3018",
+				"name": "三星20",
+				"src": "48.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop30",
+				"name": "三星20",
+				"src": "30.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop90",
+				"name": "三星20",
+				"src": "49.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop91",
+				"name": "三星20",
+				"src": "45.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop308",
+				"name": "三星20",
+				"src": "47.jpg",
+				"price": "999"
+			}, 
+			{
+				"id": "shop3018",
+				"name": "三星20",
+				"src": "48.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop30",
+				"name": "三星20",
+				"src": "41.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop90",
+				"name": "三星20",
+				"src": "49.jpg",
+				"price": "999"
+			}
+		]
+	},
+	"classify005": {
+		"name": "服饰配件",
+		"list": []
+	},
+	"classify006": {
+		"name": "食品健康",
+		"list": [
+			{
+				"id": "shop30",
+				"name": "三星20",
+				"src": "45.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop302",
+				"name": "三星20",
+				"src": "46.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop303",
+				"name": "三星20",
+				"src": "47.jpg",
+				"price": "999"
+			}, 
+			{
+				"id": "shop304",
+				"name": "三星20",
+				"src": "48.jpg",
+				"price": "999"
+			}, 
+			{
+				"id": "shop305",
+				"name": "三星20",
+				"src": "49.jpg",
+				"price": "999"
+			}, 
+			{
+				"id": "shop306",
+				"name": "三星20",
+				"src": "25.jpg",
+				"price": "999"
+			}, 
+			{
+				"id": "shop307",
+				"name": "三星20",
+				"src": "30.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop308",
+				"name": "三星20",
+				"src": "47.jpg",
+				"price": "999"
+			}, 
+			{
+				"id": "shop3018",
+				"name": "三星20",
+				"src": "48.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop30",
+				"name": "三星20",
+				"src": "30.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop90",
+				"name": "三星20",
+				"src": "49.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop91",
+				"name": "三星20",
+				"src": "45.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop308",
+				"name": "三星20",
+				"src": "47.jpg",
+				"price": "999"
+			}, 
+			{
+				"id": "shop3018",
+				"name": "三星20",
+				"src": "48.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop30",
+				"name": "三星20",
+				"src": "41.jpg",
+				"price": "999"
+			},
+			{
+				"id": "shop90",
+				"name": "三星20",
+				"src": "49.jpg",
+				"price": "999"
+			}
+		]
+	},
+	"classify007": {
+		"name": "珠宝收藏",
+		"list": []
+	},
+	"classify008": {
+		"name": "绿色生活",
+		"list": []
+	},
+	"classify009": {
+		"name": "奢华体验",
+		"list": []
+	}	
+}

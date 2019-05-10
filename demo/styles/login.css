@@ -1,0 +1,76 @@
+/*登录开始*/
+.w{
+    width: 1000px;
+    margin: 40px auto 20px auto;
+
+}
+
+.w .mt {
+   height: 37px;
+   border:1px solid #666;
+   line-height: 37px;
+   background:#e6e6e6;
+   overflow: hidden;
+}
+.w .mt h1 {
+    font-size:16px;
+    font-weight: 700;
+    padding-left:15px;
+}
+.w .mc {
+    padding: 30px 30px 10px 24px;
+    border: 1px solid #666;
+    height: 225px;
+}
+form {
+    width: 550px;
+    height: 200px;
+     border-right: 1px dashed #E7E7E7; 
+    overflow: hidden;
+}
+label {
+    display: inline-block;
+    width: 120px;
+    text-align: center;
+}
+input {
+    width: 240px;
+    height: 26px;
+    margin-top:20px;
+    border:1px solid #bbb;
+    display: inline-block;
+}
+.mc_l form a {
+    width: 90px;
+    height: 31px;
+    display: block;
+    background-color: #fc4c65;
+    line-height: 31px;
+    font-weight: bold;
+    font-size: 14px;
+    color: #fff;
+    text-align: center; 
+    margin: 10px 150px;
+}
+.mc_r {
+    width: 300px;
+}
+.mc_r h3 {
+    font-size:14px;
+}
+.mc_r p {
+    color: #666;
+    padding: 25px 0 0;
+}
+.mc_r .btn-link{
+   width: 137px;
+   height: 31px;
+   display: block;
+   background-color: #fc4c65;
+   line-height: 31px;
+   margin: 39px 0 0px 0px;
+   font-weight: bold;
+   font-size: 14px;
+   color: #fff;
+   text-align: center;
+}

@@ -1,0 +1,86 @@
+/* 商品列表界面 */
+.list-start  h4{
+	color:#999;
+	
+  }
+  .list-start .start {
+       padding-bottom:10px;
+  }
+/* ie 6/7 */
+.clearfix{
+	*zoom : 1;
+	*height: 1px;
+}
+/* IE8+ */
+.clearfix:after{
+	content: "";
+	height: 0;
+	clear: both;
+	display: block;
+	visibility: hidden;
+}
+.navcenter{
+	width: 900px;
+    border: 2px solid #fc4c65;;
+	margin: 0 auto;
+}
+.navcenter > span{
+	display: inline-block;
+	float: left;
+	width: 98px;
+	height: 40px;
+	text-align: center;
+	line-height: 40px;
+	padding: 10px 0;
+	border-right: 2px solid #fc4c65;
+	cursor: pointer;
+	font-size:16px;
+}
+.nav > span.cur{
+	color: red;
+}
+.shoplist{
+	width: 900px;
+	display: block;
+	margin: 50px auto 0;
+
+}
+.shoplist > li{
+	width: 213px;
+	/*height: 200px;*/
+	border: 1px solid #d1d1d1;
+	text-align: center;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+.shoplist  li:hover{
+    box-shadow: 0 0 10px 2px #ccc;
+}
+.shoplist > li button{
+	font-size: 16px;
+	margin-top: 10px;
+	cursor: pointer;
+    border: 1px solid #ccc;
+    background:#fc4c65;
+    color:#fff;
+}
+.shoplist > li img{
+	height: 150px;
+	display: inline-block;
+}
+.shoplist > li p{
+	width: 100%;
+	height: 20px;
+	margin-top: 5px;
+}
+/* 左边图 */
+.list-left{
+	width: 250px;
+	position: absolute;
+	top:227px;
+	left:80px;
+}
+.list-left img{
+	width: 200px;
+}
